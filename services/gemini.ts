@@ -8,7 +8,7 @@ export async function askAssistant(question: string) {
   try {
     // Generate content using the gemini-3-flash-preview model.
     const response = await ai.models.generateContent({
-      model: 'gemini-1.5-flash',
+      model: 'gemini-3-flash-preview',
       contents: question,
       config: {
         systemInstruction: `Você é o Assistente Virtual da Vivah Clínica, uma clínica médica premium e humanizada em Votuporanga, SP.
