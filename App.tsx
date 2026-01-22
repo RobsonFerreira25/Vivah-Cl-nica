@@ -8,7 +8,7 @@ import Testimonials from './components/Testimonials';
 import FAQ from './components/FAQ';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-import AIChat from './components/AIChat';
+import AssistantChat from './components/AssistantChat';
 
 const App: React.FC = () => {
   return (
@@ -23,7 +23,7 @@ const App: React.FC = () => {
         <Contact />
       </main>
       <Footer />
-      <AIChat />
+      <AssistantChat />
     </div>
   );
 };
