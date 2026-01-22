@@ -1,0 +1,8 @@
+{
+  "name": "Vivah Clínica Premium",
+  "description": "Uma landing page de alta fidelidade para uma clínica médica de luxo, integrando um assistente de IA para esclarecimento de dúvidas iniciais.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
