@@ -1,7 +1,7 @@
 # Vivah Clínica | Excelência e Humanidade 🏥✨
 
 ![Vivah Landing Page](./vivah_landing.png)
-
+![Vivah Beneficios](./baneficios.png)
 > **Vivah Clínica** é um projeto de interface premium desenvolvido para uma clínica médica de alto padrão. O foco principal é unir a **elegância visual** com uma **experiência do usuário humanizada**, refletindo o compromisso da marca com o bem-estar e a sofisticação.
 
 ---
@@ -74,5 +74,5 @@ Este projeto demonstra competências sólidas em:
 ---
 
 <div align="center">
-  <p>Desenvolvido com ❤️ para o portfólio de <strong>[Seu Nome/Robson Ferreira]</strong></p>
+  <p>Desenvolvido com ❤️ para o portfólio de <strong>Robson Ferreira</strong></p>
 </div>
